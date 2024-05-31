@@ -1,0 +1,64 @@
+D:\Tim\WebApplication3\bin\Debug\net8.0\appsettings.Development.json
+D:\Tim\WebApplication3\bin\Debug\net8.0\appsettings.json
+D:\Tim\WebApplication3\bin\Debug\net8.0\WebApplication3.exe
+D:\Tim\WebApplication3\bin\Debug\net8.0\WebApplication3.deps.json
+D:\Tim\WebApplication3\bin\Debug\net8.0\WebApplication3.runtimeconfig.json
+D:\Tim\WebApplication3\bin\Debug\net8.0\WebApplication3.dll
+D:\Tim\WebApplication3\bin\Debug\net8.0\WebApplication3.pdb
+D:\Tim\WebApplication3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tim\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tim\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tim\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.AssemblyReference.cache
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfoInputs.cache
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfo.cs
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.CoreCompileInputs.cache
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cs
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+D:\Tim\WebApplication3\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tim\WebApplication3\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tim\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tim\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication3.props
+D:\Tim\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication3.props
+D:\Tim\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication3.props
+D:\Tim\WebApplication3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tim\WebApplication3\obj\Debug\net8.0\scopedcss\bundle\WebApplication3.styles.css
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebAppli.18867FDF.Up2Date
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.dll
+D:\Tim\WebApplication3\obj\Debug\net8.0\refint\WebApplication3.dll
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.pdb
+D:\Tim\WebApplication3\obj\Debug\net8.0\WebApplication3.genruntimeconfig.cache
+D:\Tim\WebApplication3\obj\Debug\net8.0\ref\WebApplication3.dll
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\appsettings.Development.json
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\appsettings.json
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\WebApplication3.exe
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\WebApplication3.deps.json
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\WebApplication3.runtimeconfig.json
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\WebApplication3.dll
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\WebApplication3.pdb
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tim\Новая папка\WebApplication3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.AssemblyReference.cache
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfoInputs.cache
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.AssemblyInfo.cs
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.csproj.CoreCompileInputs.cache
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cs
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication3.props
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication3.props
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication3.props
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\scopedcss\bundle\WebApplication3.styles.css
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebAppli.18867FDF.Up2Date
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.dll
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\refint\WebApplication3.dll
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.pdb
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\WebApplication3.genruntimeconfig.cache
+D:\Tim\Новая папка\WebApplication3\obj\Debug\net8.0\ref\WebApplication3.dll

@@ -1,0 +1,110 @@
+D:\Tim\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\Tim\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\Tim\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\Tim\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\Tim\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\Tim\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Tim\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tim\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tim\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tim\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Tim\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Tim\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Tim\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tim\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\Tim\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\Tim\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\Tim\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.AI.DependencyCollector.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.AI.EventCounterCollector.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.AI.PerfCounterCollector.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.AI.WindowsServer.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Prometheus.NetStandard.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\Prometheus.AspNetCore.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tim\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.AI.DependencyCollector.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.AI.EventCounterCollector.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.AI.PerfCounterCollector.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.AI.WindowsServer.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Prometheus.NetStandard.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Prometheus.AspNetCore.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tim\Новая папка\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\Tim\Новая папка\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll

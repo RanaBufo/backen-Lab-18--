@@ -1,0 +1,28 @@
+D:\Tim\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Tim\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Tim\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Tim\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Tim\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Tim\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Tim\Новая папка\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Tim\Новая папка\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Tim\Новая папка\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Tim\Новая папка\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Tim\Новая папка\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Tim\Новая папка\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
